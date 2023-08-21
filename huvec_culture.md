@@ -19,10 +19,10 @@ This is the basic protocol for culturing HUVEC cells and E4-HUVEC cells.  For do
 1.  [ ] Thaw supplement kit reagents in a 37°C water bath. Do not leave reagents in the bath once thawed. 
 2.  [ ] Wipe the outside of all components with 70% ethanol solution. 
 3.  [ ] Add all kit components to a fresh bottle of EGM-2 starting with serum.
-4.  [ ] Add antibiotics or antimycotics being used in the media. 
+4.  [ ] Add antibiotics or antimycotics if being used in the media. 
 5.  [ ] Mix gently. Careful not to produce foam.
 6.  [ ] Media bottle should be wiped with 70% ethanol after use and stored at 4°C. 
-7.  [ ] For studies using dox-inducible cells, add doxycycline for a final concentration of 10 ug/mL. 
+7.  [ ] For studies using dox-inducible cells, add doxycycline for a final concentration of 2 ug/mL. 
 
 ## Thawing Cells
 
@@ -33,7 +33,7 @@ This is the basic protocol for culturing HUVEC cells and E4-HUVEC cells.  For do
 6.  [ ] Using a sterile pipette, withdraw ~0.25 mL cells for counting
 7.  [ ] Mix 15 uL cells and 15 uL trypan blue and count on the countess instrument. 
 8.  [ ] Spin down the cells while counting at 1000g x 7 min.
-9.  [ ] Calculate area for culture.  Target 20,000 cells/cm^2.  See this [link](https://www.thermofisher.com/us/en/home/references/gibco-cell-culture-basics/cell-culture-protocols/cell-culture-useful-numbers.html).
+9.  [ ] Calculate area for culture.  Target 20,000 cells/cm^2.  See this [useful guide for cell culture vessel areas and recommended seeding density.](https://www.thermofisher.com/us/en/home/references/gibco-cell-culture-basics/cell-culture-protocols/cell-culture-useful-numbers.html).
 10.  [ ] Resuspend cells in appropriate volume of EGM2 media and plate.
 11.  [ ] Incubate flasks at 37°C with 5% CO2. 
 12.  [ ] Check cell confluency each day in brightfield or fluorescence if applicable using the cell culture microscope. 
